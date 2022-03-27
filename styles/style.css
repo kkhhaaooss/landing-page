@@ -1,0 +1,45 @@
+#flexcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.header-logo {
+
+}
+
+.navigation {
+
+}
+
+.navlink {
+
+}
+
+.hero {
+
+}
+
+.signup-button {
+
+}
+
+.hero-image {
+
+}
+
+#information {
+
+}
+
+.information-items {
+
+}
+
+.information-img {
+    
+}
