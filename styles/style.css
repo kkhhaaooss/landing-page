@@ -16,8 +16,15 @@
 
 }
 
-.navlink {
+ul.navigation {
+    list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
+.navlink a{
+    text-decoration: none;
+    color: #e5e7eb;
 }
 
 .hero {
@@ -42,4 +49,12 @@
 
 .information-img {
     
+}
+
+#testimonial {
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 36px;
 }
