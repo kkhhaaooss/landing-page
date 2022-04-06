@@ -19,10 +19,6 @@
   margin: 0;
 }
 
-.hero h1 {
-  font-size: 48px;
-  font-weight: bolder;
-}
 .header-logo {
   width: 100px;
   /* padding: 12px 16px; */
@@ -71,10 +67,18 @@ ul.navigation {
 }
 
 .hero-right {
-    margin-right: 100px;
+  margin-right: 100px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 0;
 }
 
 .signup-button {
+    border-radius: 15px;
 }
 
 .hero-image {
