@@ -55,6 +55,7 @@ ul.navigation {
   justify-content: space-between;
   align-items: flex-start;
   flex-basis: content;
+  column-gap: 50px;
 }
 
 .hero-left {
@@ -78,11 +79,14 @@ ul.navigation {
 }
 
 .signup-button {
-    border-radius: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #3882fs;
 }
 
 .hero-image {
-  width: 300px;
+  width: 600px;
+  border-radius: 10px;
 }
 
 #information {
