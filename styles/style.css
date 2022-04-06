@@ -50,17 +50,20 @@ ul.navigation {
 .hero {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .hero-left {
     display: flex;
     flex-direction: column;
+    flex: 1;
 }
 
 .signup-button {
 }
 
 .hero-image {
+    width: 300px;
 }
 
 #information {
