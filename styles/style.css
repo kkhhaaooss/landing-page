@@ -82,6 +82,9 @@ ul.navigation {
     border-radius: 5px;
     padding: 10px;
     background-color: #3882fs;
+    height: 40px;
+    width: 150px;
+    margin: 0 auto;
 }
 
 .hero-image {
@@ -90,6 +93,7 @@ ul.navigation {
 }
 
 #information {
+  display: flex;
 }
 
 .information-items {
